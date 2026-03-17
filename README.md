@@ -20,6 +20,7 @@ Hi, I'm a Software Engineering student at University of Brasília - UnB and I'm 
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="GitHub" height="35" width="45" src="https://unpkg.com/simple-icons@v11/icons/github.svg?color=fff">
+   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </div>
   </div>
 
